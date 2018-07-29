@@ -1,5 +1,16 @@
 # Areyoutheone
 
+<!-- vim-markdown-toc GFM -->
+
+* [1. Introduction](#1-introduction)
+* [2. The Technical Task](#2-the-technical-task)
+* [3. Assessment criteria](#3-assessment-criteria)
+* [4. Submitting Your Entry](#4-submitting-your-entry)
+* [5. Questions?](#5-questions)
+* [6. Resources](#6-resources)
+
+<!-- vim-markdown-toc -->
+
 ## 1. Introduction
 IONS Altair is a 6-months digital curriculum that aims to cultivate the university’s brightest global-ready graduates that are able to ride the wave of technological advancements and innovative disruptions. Through these 6-months, you will be creating a digital solution that addresses a real-world problem and have a chance to be guided by industry experts. 
 Visit https://ionssim.co for more details.
