@@ -18,7 +18,7 @@ Visit https://ionssim.co for more details.
 ## 2. The Technical Task
 As part of the application process, you will need to complete a technical task. This will help us evaluate your technical capabilities before you can participate in the bootcamp. Don't let the technical task scare you! We are here to help you acquire the skills you need to complete the task with a list of online resources (see the section on resources)!
 
-Your task: `Create a announcements wordpress module`
+Your task: `Create an announcement wordpress module`
  
 ### The Deets
 Your task is to develop a module in the open-source PHP project, Wordpress. It will be connecting with a backend database. You can use MySQL for the backend database. You are required to do this on your own.
@@ -75,9 +75,9 @@ After you have finished building your personal website, you will need to share t
 Please include a short writeup on the libraries you used, your learning points and thoughts while carrying out this task. Do also write down any special instructions for use to be able to run and view your submission.
 
 ## 5. Questions?
-If you have any other questions regarding the task, do contact Charlotte/Carissa at admin@ionssim.co. To ask a technical question or get help for bugs you're facing, please join this support group
+If you have any other questions regarding the task, do contact Charlotte/Carissa at admin@ionssim.co to join our slack workspace. We will add you to our support group on slack where your technical question or to get help for bugs you're facing. 
 
-_TBD_
+Altair 2018 slack workspace: `https://altair2018.slack.com`
   
 ## 6. Resources
 1. [Installing wordpress on windows](https://www.elegantthemes.com/blog/tips-tricks/how-to-install-wordpress-locally-on-a-windows-computer)
