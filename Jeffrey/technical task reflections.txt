@@ -1,0 +1,6 @@
+My thoughts on the technical task 
+
+This past week has been a struggle, although i had a little bit of experience of PHP, it was not enough in order to complete the task the way i envisioned it to be.
+I spent quite a few days trying to understand the syntax,structure and methods of wordpress. I managed to create a custom plugin, and it seems like 
+i managed to solve the task hopefully. In terms of creating a legit plugin that is actually useful, there are many more things i could do hopefully with more time and more
+help. 
