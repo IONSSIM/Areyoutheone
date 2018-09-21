@@ -1,0 +1,13 @@
+To use this plugin, simply extract its contents to the plugin folder of your wordpress and it should work.
+
+Reflection:
+The task was manageable within the time allocated to us. I learned how different elements in wordpress come 
+together for an (external) feature to be created. Through this task, I have a better understanding of working with
+mainly wordpress and php files. One of the challenges was finding the root cause of any errors that came about
+during this task. It took time and research to figure out whether the error was due to the database or a mistake 
+the code or something else all together. I referenced a few different sites to come up with a very basic plugin 
+for the announcement. I was trying to get my announcement to display on the top of the page rather than a
+post. However, I was unsuccessful in doing so. Hopefully, I will be able to explore on expanding the features 
+during free time. I hope this meets te basic criteria of the task given. Lastly, I would like to thank IONS for 
+providing me with this opportunity to learn more about creating a plugin - something I had never encountered
+before. 
