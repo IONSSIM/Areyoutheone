@@ -1,0 +1,12 @@
+Hi,
+
+I am really sorry, but I have tried the best that I can, given the limited time I had due to the late submission of my application to understand and learn the basics of Wordpress in 1 week. Before this task, I have never heard of Wordpress or even GitHub. 
+
+I am actually stuck on activating the plugin, using the reference links provided. Based on other the other research I have done about wordpress plugins, I am not really sure on how to go about building a plugin without needing an author uri. 
+
+Attached is an image of my current progress of the technical task, and although I know it is nowhere near even 1/4 done, I have really tried my best in the past few days, trying to familiarise and understand the syntax and basics of wordpress, programming and customisations of wordpress.
+
+Thank you for this opportunity nevertheless, I know that with more time, I could have produced much more for this technical task and no matter the outcome, I would not give up on improving and expanding my knowledge of the technical aspects of technology and this task will be the stepping stone for my progress.
+
+Regards,
+Zhi Wen
